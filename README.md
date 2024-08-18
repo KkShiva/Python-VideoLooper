@@ -1,3 +1,8 @@
+About :
+This script enables you to select the video and extend it to given number of hours 
+
+
+
 ```python
 
 from moviepy.editor import VideoFileClip, concatenate_videoclips
@@ -53,3 +58,6 @@ loop_video_optimized(input_video_path, output_video_path, hours)
 
 
 ```
+
+![image](https://github.com/user-attachments/assets/0eec60b7-944c-4e6d-a6ee-7475ce6a7c42)
+
